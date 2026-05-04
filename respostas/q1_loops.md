@@ -31,7 +31,7 @@ public class Main {
 
 HASKELL:
 
--- Função recursiva que atua como o loop
+
 loop :: Double -> IO ()
 loop k
     | k > 10    = putStrLn "Loop finalizado."
